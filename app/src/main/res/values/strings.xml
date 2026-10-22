@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Scanner Pro</string>
+    <string name="title_ocr">Ekstrak Teks (OCR)</string>
+    <string name="desc_ocr">Ambil foto atau pilih gambar untuk mengekstrak teks otomatis</string>
+
+    <string name="title_translator">Penerjemah Foto</string>
+    <string name="desc_translator">Terjemahkan teks dari foto langsung ke berbagai bahasa</string>
+
+    <string name="title_img_to_pdf">Foto ke PDF</string>
+    <string name="desc_img_to_pdf">Gabungkan beberapa foto/gambar menjadi satu file PDF</string>
+
+    <string name="title_pdf_merger">Penggabung PDF</string>
+    <string name="desc_pdf_merger">Gabungkan 2 atau lebih file PDF menjadi 1 file PDF baru</string>
+
+    <string name="title_converter">Konversi Dokumen</string>
+    <string name="desc_converter">Konversi PDF ke Word (.docx), Excel (.xlsx), PPT (.pptx), atau Gambar</string>
+
+    <string name="title_compressor">Kompresi File &amp; PDF</string>
+    <string name="desc_compressor">Kecilkan ukuran file foto, PDF, atau kompres file ke ZIP</string>
+
+    <string name="title_saved_files">File Tersimpan</string>
+    <string name="desc_saved_files">Lihat dan kelola dokumen hasil scan yang telah dibuat</string>
+
+    <string name="btn_camera">Kamera</string>
+    <string name="btn_gallery">Galeri</string>
+
+    <string name="btn_convert">Konversi Sekarang</string>
+    <string name="btn_merge">Gabungkan PDF</string>
+    <string name="btn_compress">Kompres File</string>
+    <string name="btn_translate">Terjemahkan</string>
+
+    <string name="btn_copy">Salin Teks</string>
+    <string name="btn_share">Bagikan</string>
+
+    <string name="select_pdf">Pilih File PDF</string>
+    <string name="select_images">Pilih Foto</string>
+
+    <string name="status_processing">Memproses&#8230;</string>
+    <string name="status_success">Berhasil diselesaikan!</string>
+
+    <string name="no_files">Belum ada file tersimpan</string>
+</resources>

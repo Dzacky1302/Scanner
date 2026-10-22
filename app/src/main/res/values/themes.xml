@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Scanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#0D6EFD</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#E7F0FF</item>
+        <item name="colorOnPrimaryContainer">#001D4A</item>
+        <item name="colorSecondary">#4A607A</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorSurface">#F8F9FA</item>
+        <item name="colorOnSurface">#1A1C1E</item>
+        <item name="colorSurfaceVariant">#E1E2EC</item>
+        <item name="colorOnSurfaceVariant">#44474F</item>
+    </style>
+
+    <style name="Theme.Scanner" parent="Base.Theme.Scanner" />
+</resources>

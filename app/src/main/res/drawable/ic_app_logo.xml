@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Blue Outer Background -->
+    <path
+        android:fillColor="#0D6EFD"
+        android:pathData="M24,0 L104,0 A24,24 0 0,1 128,24 L128,104 A24,24 0 0,1 104,128 L24,128 A24,24 0 0,1 0,104 L0,24 A24,24 0 0,1 24,0 Z" />
+
+    <!-- Top Left Bracket -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 40,28 L 30,28 A 6,6 0 0,0 24,34 L 24,44" />
+
+    <!-- Top Right Bracket -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 88,28 L 98,28 A 6,6 0 0,1 104,34 L 104,44" />
+
+    <!-- Bottom Left Bracket -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 40,100 L 30,100 A 6,6 0 0,1 24,94 L 24,84" />
+
+    <!-- Bottom Right Bracket -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 88,100 L 98,100 A 6,6 0 0,0 104,94 L 104,84" />
+
+    <!-- Document Background Paper -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 40,36 L 76,36 L 88,48 L 88,92 A 6,6 0 0,1 82,98 L 46,98 A 6,6 0 0,1 40,92 Z" />
+
+    <!-- Folded Paper Corner -->
+    <path
+        android:fillColor="#D0D7DE"
+        android:pathData="M 76,36 L 88,48 L 76,48 Z" />
+
+    <!-- Document Text Lines -->
+    <path
+        android:strokeColor="#A8C7FA"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 48,54 L 64,54 M 48,62 L 78,62 M 48,70 L 78,70 M 48,78 L 70,78 M 48,86 L 60,86" />
+
+    <!-- Glowing Laser Line Shadow/Glow -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 22,66 L 106,66" />
+
+    <!-- Glowing Laser Line Center -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 24,66 L 104,66" />
+
+</vector>
